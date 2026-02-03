@@ -1,0 +1,16 @@
+{
+  "id": "example-id",
+  "nodes": [
+    {
+      "id": 1,
+      "type": "example_node",
+      "pos": [
+        100,
+        200
+      ],
+      "inputs": [],
+      "outputs": []
+    }
+  ],
+  "links": []
+}

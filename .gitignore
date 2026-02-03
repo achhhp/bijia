@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Flask
+instance/
+.webassets-cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+!实际格式示例.xlsx
+!供应商A.xlsx
+!供应商B.xlsx
+!供应商C.xlsx
+
+# Other
+*.zip
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.txt
+!requirements.txt
+!使用说明.md
+!Web版本使用说明.md
+!启动比价软件.bat
+!启动比价软件.txt
